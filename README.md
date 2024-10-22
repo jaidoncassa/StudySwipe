@@ -1,2 +1,2 @@
 # StudySwipe
-StudySwipe connects college students with study partners through a swipe-based system, helping you find the perfect match for productive study sessions. It's like Tinder, but for studying!
+Introducing **StudySwipe**, the ultimate app designed to connect college students for study sessions. Whether you need a study buddy, group work partner, or someone to review notes with, StudySwipe makes it easy to swipe through profiles of peers with similar academic interests and study goals. Match, chat, and schedule study sessions in just a few taps, turning networking into a fun and productive experience. It's like Tinder, but for studying—connecting you with the perfect academic match to ace your next exam!
